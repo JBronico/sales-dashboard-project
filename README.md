@@ -1,7 +1,8 @@
 # sales-dashboard-project
 Beginner sales analysis using Google Sheets
 
-## Sales Performance Dashboard - Case Study
+## Project Title
+Sales Performance Dashboard - Case Study
 
 ## Objective
 Analyze sales data to identify key performance trends across prodyct categories, regions, and time. The goal is to understand what drives revenue and where improvements can be made.
